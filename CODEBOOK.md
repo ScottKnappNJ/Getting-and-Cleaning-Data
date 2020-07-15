@@ -2,7 +2,6 @@
 title: "CodeBook"
 author: "iseter"
 date: "7/15/2020"
-output: html_document
 ---
 
 
